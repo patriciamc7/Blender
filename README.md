@@ -1,7 +1,7 @@
 # Blender
 
 - Donut: 
-<img src="/donut project/frames/1/0030.png" width="630" height="478">
+<img src="/donut project/frames/1/0030.png" width="630" height="600">
 
 - Room: 
 <img src="/Room/prueba1.png" width="630" height="478">
