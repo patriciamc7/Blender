@@ -5,7 +5,7 @@
 - Room: 
 <img src="/Room/prueba1.png" width="630" height="478">
 - Neon light: 
-<img src="/neon light/final_animation_gif.png" width="630" height="478">
+<img src="/neon light/final_animation_gif.gif" width="630" height="478">
 - Sunset: 
-<img src="/sunset_retro/sunset_gif.gif" width="630" height="478">
+<img src="/sunset_retro/sunset_gif.gif" width="800" height="478">
 
