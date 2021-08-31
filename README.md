@@ -19,4 +19,4 @@
 <img src="/Glasses/13.png" width="800" height="478">
 
 - Glasses Guy: 
-<img src="/GlassesGuy/try2.png" width="800" height="478">
+<img src="/GlassesGuy/try2.png" width="400" height="800">
