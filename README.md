@@ -12,5 +12,11 @@
 - Sunset: 
 <img src="/sunset_retro/sunset_gif.gif" width="800" height="478">
 
-- Cake: 
-<img src="/Cake/prueba7.png" width="800" height="478">
+- Neon forest: 
+<img src="/landscape/untitled2.png" width="800" height="478">
+
+- Glasses: 
+<img src="/Glasses/13.png" width="800" height="478">
+
+- Glasses Guy: 
+<img src="/GlassesGuy/try2.png" width="800" height="478">
