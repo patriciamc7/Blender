@@ -1,6 +1,6 @@
 # Blender
 - Food: 
-<img src="/Ghibli food/part5.jpg" width="800" height="600">
+<img src="/Ghibli food/part5.jpg" width="1280" height="720">
 
 - Donut: 
 <img src="/donut project/frames/1/0030.png" width="630" height="600">
