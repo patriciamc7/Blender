@@ -3,7 +3,7 @@
 <img src="/Ghibli food/final.png" width="630" height="420">
 
 - Frog: 
-<img src="/Frog/FrogFinal.png" width="540" height="800'">
+<img src="/Frog/FrogFinal.png" width="540" height="750'">
 
 - Donut: 
 <img src="/donut project/frames/1/0030.png" width="630" height="600">
