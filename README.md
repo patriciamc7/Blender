@@ -3,7 +3,7 @@
 <img src="/Ghibli food/final.png" width="630" height="420">
 
 - Frog: 
-<img src="/Frog/FrogFinal.png" width="540" height="64'">
+<img src="/Frog/FrogFinal.png" width="540" height="945'">
 
 - Donut: 
 <img src="/donut project/frames/1/0030.png" width="630" height="600">
@@ -24,4 +24,4 @@
 <img src="/Glasses/13.png" width="800" height="478">
 
 - Glasses Guy: 
-<img src="/GlassesGuy/try2.png" width="540" height="640">
+<img src="/GlassesGuy/try2.png" width="540" height="945">
