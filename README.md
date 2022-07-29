@@ -3,7 +3,7 @@
 <img src="/Ghibli food/final.png" width="630" height="420">
 
 - Frog: 
-<img src="/Frog/FrogFinal.png" width="540" height="650'">
+<img src="/Frog/FrogGlassesFinal.png" width="630" height="650'">
 
 - Fluid: 
 <img src="/WaterFluid/final.png" width="650" height="540'">
