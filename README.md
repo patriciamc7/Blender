@@ -6,7 +6,7 @@
 <img src="/Frog/FrogGlassesFinal.png" width="630" height="650'">
 
 - Hollow Knight: 
-<img src="/HollowKnight/untitled.png" width="650" height="540'">
+<img src="/HollowKnight/untitled.png" width="800" height="478">
 
 - Donut: 
 <img src="/donut project/frames/1/0030.png" width="630" height="600">
