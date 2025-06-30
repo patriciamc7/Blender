@@ -1,6 +1,6 @@
 # Blender
 - Matcha: 
-<img src="imageonline-co-noisedimage (1).png" width="630" height="650">
+<img src="imageonline-co-noisedimage (1).png" width="800" height="478">
 
 - Food: 
 <img src="/Ghibli food/final.png" width="630" height="420">
